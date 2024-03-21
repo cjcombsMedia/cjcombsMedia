@@ -4,10 +4,10 @@
 
 I have 🎯 30+ years of experience in in designing, building and supporting enterprise systems in the cloud and on-premise for Fortune 100/500 companies and small start-up businesses. I also specialize in SharePoint Management, Development, Design and Automation. I also have extensive experience in User Experience App development for organizations (Business Line Apps) for efficiency and effectiveness.
 
-💲 My Rate is Simple. $35 an hour and never changes.
-✅ Quality-focused end-to-end ☁️ cloud solution expert.
+💲 My Rate is Simple. $35 an hour and never changes.<br />
+✅ Quality-focused end-to-end ☁️ cloud solution expert.<br /><br />
 
-My most recent project was migrating on-premise data to SharePoint using SharePoint migration tools and optimizing for search and usability including OneDrive for Business Sync as well as developing a user friendly front page UI that allowed for fast and efficient navigation to content.
+My most recent project was migrating on-premise data to SharePoint using SharePoint migration tools and optimizing for search and usability including OneDrive for Business Sync as well as developing a user friendly front page UI that allowed for fast and efficient navigation to content.<br />
 
 ### Languages, Tool, Platforms:
 
