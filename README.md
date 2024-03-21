@@ -50,7 +50,7 @@ Cj
 
 PS – As a bonus, I will create a business line app that helps your company be more efficient with SharePoint and other tools that rapidly launches SharePoint and other sites easily.
 
-### 📊 Stats
+### 📊 CJ's GitHub Stats
 
 ![CJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjcombsMedia&show_icons=true&theme=gruvbox)
 
