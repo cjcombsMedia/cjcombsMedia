@@ -12,16 +12,16 @@ My most recent project was migrating on-premise data to SharePoint using SharePo
 👐🏻 My clients include: General Motors, Allstate, NASA, US DoD, Lucent/AT&T and Avaya.
 
 My experience is primarily in Microsoft Products and Services but I do have extensive experience with Apple (MacOS) and Linux.
-☑️ Microsoft SharePoint (Design, Development, Optimization & Search)
-☑️ Microsoft Power Automate
-☑️ Microsoft PowerApps
-☑️ Microsoft Forms
-☑️ Microsoft Azure, Office 365 (M365)
-☑️ Microsoft AVD, Azure VM, NSG, Resource Groups
-☑️ Microsoft Cost Management and Data Analytics
-☑️ Microsoft Security Defender
-☑️ Microsoft Intune (Cloud-based Endpoint Management for devices)
-☑️ Microsoft Exchange
+☑️ Microsoft SharePoint (Design, Development, Optimization & Search)<br>
+☑️ Microsoft Power Automate<br>
+☑️ Microsoft PowerApps<br>
+☑️ Microsoft Forms<br>
+☑️ Microsoft Azure, Office 365 (M365)<br>
+☑️ Microsoft AVD, Azure VM, NSG, Resource Groups<br>
+☑️ Microsoft Cost Management and Data Analytics<br>
+☑️ Microsoft Security Defender<br>
+☑️ Microsoft Intune (Cloud-based Endpoint Management for devices)<br>
+☑️ Microsoft Exchange<br><br>
 
 ITIL Minded process professional for operational success:
 - Discover
