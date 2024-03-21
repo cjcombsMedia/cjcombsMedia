@@ -50,6 +50,14 @@ Cj
 
 PS – As a bonus, I will create a business line app that helps your company be more efficient with SharePoint and other tools that rapidly launches SharePoint and other sites easily.
 
+### 📊 Stats
+
+![CJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjcombsMedia&show_icons=true&theme=gruvbox)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+
+#
+
 <!--
 **cjcombsMedia/cjcombsMedia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
