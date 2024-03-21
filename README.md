@@ -9,7 +9,7 @@ I have 🎯 30+ years of experience in in designing, building and supporting ent
 
 My most recent project was migrating on-premise data to SharePoint using SharePoint migration tools and optimizing for search and usability including OneDrive for Business Sync as well as developing a user friendly front page UI that allowed for fast and efficient navigation to content.
 
-### Languages and Tools:
+### Languages, Tool, Platforms:
 
 <img align="left" alt="Visual Studio Code" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
