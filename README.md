@@ -36,6 +36,7 @@ My experience is primarily in Microsoft Products and Services but I do have exte
 ☑️ Microsoft Azure, Office 365 (M365)<br>
 ☑️ Microsoft AVD, Azure VM, NSG, Resource Groups<br>
 ☑️ Microsoft Cost Management and Data Analytics<br>
+☑️ Microsoft PowerShell Script Creator<br>
 ☑️ Microsoft Security Defender<br>
 ☑️ Microsoft Intune (Cloud-based Endpoint Management for devices)<br>
 ☑️ Microsoft Exchange<br><br>
