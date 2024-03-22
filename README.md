@@ -17,8 +17,9 @@ My most recent project was migrating on-premise data to SharePoint using SharePo
 <img align="left" alt="Visual Studio Code" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Microsoft Azure" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Microsoft SQL" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" style="padding-right:10px;" />
-<img align="left" alt="Linux" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="Apple" width="35px" src="https://publichtmlimg.blob.core.windows.net/$web/MicrosoftWindows.png" style="padding-right:10px;" />
 <img align="left" alt="Apple" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Linux" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <br />
 <br />
 
