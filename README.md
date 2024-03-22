@@ -1,6 +1,6 @@
 # 👋 CJ Combs
 
-** 'Microsoft SharePoint and VB.NET Developer and overall SharePoint Ninja 🐱‍👤' **
+## 'Microsoft SharePoint and VB.NET Developer and overall SharePoint Ninja 🐱‍👤' ##
 
 I have 🎯 30+ years of experience in in designing, building and supporting enterprise systems in the cloud and on-premise for Fortune 100/500 companies and small start-up businesses. I also specialize in SharePoint Management, Development, Design and Automation. I also have extensive experience in User Experience App development for organizations (Business Line Apps) for efficiency and effectiveness.
 
