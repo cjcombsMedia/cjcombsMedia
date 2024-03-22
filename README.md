@@ -11,15 +11,15 @@ My most recent project was migrating on-premise data to SharePoint using SharePo
 
 ### Apps, Languages, Tool, Platforms:
 
-<a href="https://cjthegeek.sharepoint.com/sites/SharePointOnlinePortfolioforCJCombs" target="_blank"><img align="left" alt="Microsoft SharePoint" width="55px" src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_SharePointLOGO.png#gh-dark-mode-only" style="padding-right:10px;" />
-<a href="https://cjthegeek.sharepoint.com/sites/SharePointOnlinePortfolioforCJCombs" target="_blank"><img align="left" alt="Microsoft SharePoint" width="55px" src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_PowerAutomate.png#gh-dark-mode-only" style="padding-right:10px;" />
-<img align="left" alt="Microsoft OneDrive" width="35px" src="https://publichtmlimg.blob.core.windows.net/$web/OneDriveLOGO.png#gh-dark-mode-only" style="padding-right:10px;" />
-<img align="left" alt="Visual Studio Code" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Microsoft Azure" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Microsoft SQL" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" style="padding-right:10px;" />
-<img align="left" alt="Apple" width="35px" src="https://publichtmlimg.blob.core.windows.net/$web/MicrosoftWindows.png" style="padding-right:10px;" />
-<img align="left" alt="Apple" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Linux" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<a href="https://www.linkedin.com/in/cjcombs/" target="_blank"><img align="left" alt="Microsoft SharePoint" width="55px" src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_SharePointLOGO.png" style="padding-right:10px;" />
+<a href="https://www.linkedin.com/in/cjcombs/" target="_blank"><img align="left" alt="Microsoft SharePoint" width="55px" src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_PowerAutomate.png" style="padding-right:10px;" />
+<a href="https://www.linkedin.com/in/cjcombs/" target="_blank"><img align="left" alt="Microsoft PowerApps" width="55px" src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_PowerApps.png" style="padding-right:10px;" />
+<a href="https://www.linkedin.com/in/cjcombs/" target="_blank"><img align="left" alt="DEV VB.NET" width="55px" src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_VBNET.png" style="padding-right:10px;" />
+<a href="https://www.linkedin.com/in/cjcombs/" target="_blank"><img align="left" alt="Microsoft Azure" width="55px" src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_Azure.png" style="padding-right:10px;" />
+<a href="https://www.linkedin.com/in/cjcombs/" target="_blank"><img align="left" alt="Microsoft SQL" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" style="padding-right:10px;" />
+<a href="https://www.linkedin.com/in/cjcombs/" target="_blank"><img align="left" alt="Apple" width="55px" src="https://publichtmlimg.blob.core.windows.net/$web/MicrosoftWindows.png" style="padding-right:10px;" />
+<a href="https://www.linkedin.com/in/cjcombs/" target="_blank"><img align="left" alt="Apple" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" style="padding-right:10px;" />
+<a href="https://www.linkedin.com/in/cjcombs/" target="_blank"><img align="left" alt="Linux" width="55px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg#gh-dark-mode-only" />
 <br />
 <br />
 
