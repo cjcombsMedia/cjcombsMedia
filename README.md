@@ -11,7 +11,7 @@ My most recent project was migrating on-premise data to SharePoint using SharePo
 
 ### Apps, Languages, Tool, Platforms:
 
-<a href="https://cjthegeek.sharepoint.com/sites/SharePointOnlinePortfolioforCJCombs" target="_blank"><img align="left" alt="Microsoft SharePoint" width="35px" src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_SharePointLOGO.png#gh-dark-mode-only" style="padding-right:10px;" />
+<a href="https://cjthegeek.sharepoint.com/sites/SharePointOnlinePortfolioforCJCombs" target="_blank"><img align="left" alt="Microsoft SharePoint" width="45px" src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_SharePointLOGO.png#gh-dark-mode-only" style="padding-right:10px;" />
 <a href="https://cjthegeek.sharepoint.com/sites/SharePointOnlinePortfolioforCJCombs" target="_blank"><img align="left" alt="Microsoft SharePoint" width="35px" src="https://publichtmlimg.blob.core.windows.net/$web/microsoft-power-automate-seeklogo.png" style="padding-right:10px;" />
 <img align="left" alt="Microsoft OneDrive" width="35px" src="https://publichtmlimg.blob.core.windows.net/$web/OneDriveLOGO.png#gh-dark-mode-only" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
