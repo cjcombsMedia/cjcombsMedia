@@ -16,9 +16,9 @@ My most recent project was migrating on-premise data to SharePoint using SharePo
 <a href="https://www.linkedin.com/in/cjcombs/" target="_blank"><img align="left" alt="Microsoft PowerApps" width="55px" src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_PowerApps.png" style="padding-right:10px;" />
 <a href="https://www.linkedin.com/in/cjcombs/" target="_blank"><img align="left" alt="DEV VB.NET" width="55px" src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_VBNET.png" style="padding-right:10px;" />
 <a href="https://www.linkedin.com/in/cjcombs/" target="_blank"><img align="left" alt="Microsoft Azure" width="55px" src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_Azure.png" style="padding-right:10px;" />
-<a href="https://www.linkedin.com/in/cjcombs/" target="_blank"><img align="left" alt="Microsoft SQL" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" style="padding-right:10px;" />
-<a href="https://www.linkedin.com/in/cjcombs/" target="_blank"><img align="left" alt="Apple" width="55px" src="https://publichtmlimg.blob.core.windows.net/$web/MicrosoftWindows.png" style="padding-right:10px;" />
-<a href="https://www.linkedin.com/in/cjcombs/" target="_blank"><img align="left" alt="Apple" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" style="padding-right:10px;" />
+<a href="https://www.linkedin.com/in/cjcombs/" target="_blank"><img align="left" alt="Microsoft Forms" width="55px" src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_Forms.png" style="padding-right:10px;" />
+<a href="https://www.linkedin.com/in/cjcombs/" target="_blank"><img align="left" alt="Microsoft Teams" width="55px" src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_Teams.png" style="padding-right:10px;" />
+<a href="https://www.linkedin.com/in/cjcombs/" target="_blank"><img align="left" alt="Microsoft Exchange" width="55px" src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_Exchange.png" style="padding-right:10px;" />
 <a href="https://www.linkedin.com/in/cjcombs/" target="_blank"><img align="left" alt="Linux" width="55px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg#gh-dark-mode-only" />
 <br />
 <br />
