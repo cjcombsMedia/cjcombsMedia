@@ -25,7 +25,7 @@ My most recent project was migrating on-premise data to SharePoint using SharePo
 #
 
 
-👐🏻 My clients include: General Motors, Allstate, NASA, US DoD, Lucent/AT&T and Avaya.
+👐🏻 My clients include: General Motors 🚗, Allstate, NASA 👩🏻‍🚀, US DoD 🚁, Lucent/AT&T and Avaya 📞☎.
 
 My experience is primarily in Microsoft Products and Services but I do have extensive experience with Apple (MacOS) and Linux.
 ☑️ Microsoft SharePoint (Design, Development, Optimization & Search)<br>
