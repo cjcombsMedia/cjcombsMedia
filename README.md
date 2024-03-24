@@ -12,7 +12,7 @@ My most recent project was migrating on-premise data to SharePoint using SharePo
 ### Apps, Languages, Tool, Platforms:
 
 <a href="https://www.linkedin.com/in/cjcombs/" target="_blank"><img align="left" alt="Microsoft SharePoint" width="55px" src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_SharePointLOGO.png" style="padding-right:10px;" />
-<a href="https://www.linkedin.com/in/cjcombs/" target="_blank"><img align="left" alt="Microsoft SharePoint" width="55px" src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_PowerAutomate.png" style="padding-right:10px;" />
+<a href="https://www.linkedin.com/in/cjcombs/" target="_blank"><img align="left" alt="Microsoft PowerAutomate" width="55px" src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_PowerAutomate.png" style="padding-right:10px;" />
 <a href="https://www.linkedin.com/in/cjcombs/" target="_blank"><img align="left" alt="Microsoft PowerApps" width="55px" src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_PowerApps.png" style="padding-right:10px;" />
 <a href="https://www.linkedin.com/in/cjcombs/" target="_blank"><img align="left" alt="DEV VB.NET" width="55px" src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_VBNET.png" style="padding-right:10px;" />
 <a href="https://www.linkedin.com/in/cjcombs/" target="_blank"><img align="left" alt="Microsoft Azure" width="55px" src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_Azure.png" style="padding-right:10px;" />
@@ -68,6 +68,8 @@ PS – As a bonus, I will create a business line app that helps your company be 
 <br><br>
 <br />
 <br />
+# 
+
 ## SIP Decoder/Troubleshooter 2014
 <a href="https://github.com/cjcombsMedia/Basic-SIP-Troubleshooter-2014"><img align="left" alt="Microsoft SharePoint" width="455px" src="https://publichtmlimg.blob.core.windows.net/$web/SIPTroubleshooter2014.jpg" style="padding-right:10px;" />
 
