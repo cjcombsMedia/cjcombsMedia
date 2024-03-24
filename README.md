@@ -49,7 +49,7 @@ ITIL Minded process professional for operational success:
 - Grow/Evolve
 - Sustain/Support
 
-Let’s get started on your project now! Click that Message or HIRE button now. Chat soon!
+Let’s get started on your project now! Chat soon!
 Cj
 
 PS – As a bonus, I will create a business line app that helps your company be more efficient with SharePoint and other tools that rapidly launches SharePoint and other sites easily.
