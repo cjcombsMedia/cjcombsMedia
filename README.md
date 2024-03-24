@@ -27,6 +27,7 @@ My most recent project was migrating on-premise data to SharePoint using SharePo
 
 
 👐🏻 My clients include: General Motors 🚗, Allstate, NASA 👩🏻‍🚀, US DoD 🚁, Lucent/AT&T and Avaya 📞☎.
+SEE PROJECT LINKS DOWN BELOW! 👇🏼
 
 My experience is primarily in Microsoft Products and Services but I do have extensive experience with Apple (MacOS) and Linux.<br>
 ☑️ Microsoft SharePoint (Design, Development, Optimization & Search)<br>
@@ -59,6 +60,9 @@ PS – As a bonus, I will create a business line app that helps your company be 
 ![CJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjcombsMedia&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+
+### VoIP Personal Assistant 2005 - First Mockup for use with Avaya IP Office
+<a href="https://github.com/cjcombsMedia/VoIP-Personal-Assistant-2005/tree/main"><img align="left" alt="Microsoft SharePoint" width="455px" src="https://publichtmlimg.blob.core.windows.net/$web/CTICallControl2005.jpg" style="padding-right:10px;" />
 
 #
 
