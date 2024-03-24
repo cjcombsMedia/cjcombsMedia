@@ -65,7 +65,7 @@ PS – As a bonus, I will create a business line app that helps your company be 
 
 ### VoIP Personal Assistant 2005 - First Mockup for use with Avaya IP Office
 <a href="https://github.com/cjcombsMedia/VoIP-Personal-Assistant-2005/tree/main"><img align="left" alt="Microsoft SharePoint" width="455px" src="https://publichtmlimg.blob.core.windows.net/$web/CTICallControl2005.jpg" style="padding-right:10px;" />
-
+<br><br>
 ### SIP Decoder/Troubleshooter 2014
 <a href="https://github.com/cjcombsMedia/Basic-SIP-Troubleshooter-2014"><img align="left" alt="Microsoft SharePoint" width="455px" src="https://publichtmlimg.blob.core.windows.net/$web/SIPTroubleshooter2014.jpg" style="padding-right:10px;" />
 
