@@ -23,8 +23,9 @@ My most recent project was migrating on-premise data to SharePoint using SharePo
 <br />
 
 #
-
-
+Latest Project:<br>
+<a href="https://www.linkedin.com/in/cjcombs/"><img align="left" alt="NOC Script and Tool Launcher" width="155px" style="padding-right:10px;" src="'https://publichtmlimg.blob.core.windows.net/$web/LatestProject.png" />
+<br><br><br />
 👐🏻 My clients include: General Motors 🚗, Allstate, NASA 👩🏻‍🚀, US DoD 🚁, Lucent/AT&T and Avaya 📞☎.
 SEE PROJECT LINKS DOWN BELOW! 👇🏼
 
