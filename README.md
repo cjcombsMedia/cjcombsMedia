@@ -19,13 +19,13 @@ My most recent project was migrating on-premise data to SharePoint using SharePo
 <a href="https://www.linkedin.com/in/cjcombs/" target="_blank"><img align="left" alt="Microsoft Teams" width="55px" src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_Teams.png" style="padding-right:10px;" />
 <a href="https://www.linkedin.com/in/cjcombs/" target="_blank"><img align="left" alt="Microsoft Exchange" width="55px" src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_Exchange.png" style="padding-right:10px;" />
 <a href="https://www.linkedin.com/in/cjcombs/" target="_blank"><img align="left" alt="Microsoft Office 365" width="55px" style="padding-right:10px;" src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_Office365.png" />
-<br />
-<br />
-
 #
-Latest Project:<br>
+
+## Latest Project:
 <a href="https://www.linkedin.com/in/cjcombs/"><img align="left" alt="NOC Script and Tool Launcher" width="155px" style="padding-right:10px;" src="'https://publichtmlimg.blob.core.windows.net/$web/LatestProject.png" />
-<br><br><br />
+<br><br>
+#
+
 👐🏻 My clients include: General Motors 🚗, Allstate, NASA 👩🏻‍🚀, US DoD 🚁, Lucent/AT&T and Avaya 📞☎.
 SEE PROJECT LINKS DOWN BELOW! 👇🏼
 
