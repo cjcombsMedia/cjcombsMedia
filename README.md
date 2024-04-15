@@ -113,43 +113,6 @@
 
 </p>
 
- ## 📂 Projects :
-
-<div>
-  <a href="https://github.com/cjcombsMedia/NOCToolbox">
-    <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=cjcombsMedia&repo=NOCToolbox&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats" />
-  </a>
-</div>
-
-<div>
-  <a href="https://github.com/cjcombsMedia/Terraform-Configs-for-Azure">
-    <img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=cjcombsMedia&repo=Terraform-Configs-for-Azure&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats" />
-  </a>
-</div>
-
-<div>
-  <a href="https://github.com/cjcombsMedia/Basic-SIP-Troubleshooter-2014">
-    <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=cjcombsMedia&repo=Basic-SIP-Troubleshooter-2014&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats" />
-  </a>
-</div>
-<div>
-  <a href="https://github.com/cjcombsMedia/JavaScript_Todo-APP">
-    <img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=cjcombsMedia&repo=JavaScript_Todo-APP&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats" />
-  </a>
-</div>
-<div>
-  <a href="https://github.com/cjcombsMedia/loginmanagementsystem">
-    <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=cjcombsMedia&repo=loginmanagementsystem&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats" />
-  </a>
-</div>
-<div>
-  <a href="https://github.com/cjcombsMedia/TypeScriptCrudapp">
-    <img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=cjcombsMedia&repo=TypeScriptCrudapp&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats" />
-  </a>
-</div>
- 
-
-
 
 <p align="center">
 <a href="https://github.com/cjcombsMedia"><span>
