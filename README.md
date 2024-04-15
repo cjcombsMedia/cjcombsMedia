@@ -49,7 +49,7 @@
 
 </p>
 
-<h2>Tools, Languages, Expertise In:</h2>
+<h2>🛠 Tools, Languages, Expertise In:</h2>
  <a href="https://www.linkedin.com/in/cjcombs/" rel="noreferrer nofollow">
       <img src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_SharePointLOGO.png" alt="Microsoft SharePoint" height="55" width="55" >
     </a>
