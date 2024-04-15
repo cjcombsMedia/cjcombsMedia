@@ -77,22 +77,22 @@
 <a href="https://www.linkedin.com/in/cjcombs/" target="_blank"><img align="left" alt="Microsoft Exchange" width="55px" src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_Exchange.png" style="padding-right:10px;" /></a>
 <a href="https://www.linkedin.com/in/cjcombs/" target="_blank"><img align="left" alt="Microsoft Office 365" width="55px" style="padding-right:10px;" src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_Office365.png" /></a>
 
-
+</p>
 
 
 
 ## 🔥 Streak stats :
-
+<p>
 <div align="center">
   <a href="https://github.com/cjcombsMedia/github-readme-streak-stats">
-  <img align="center" alt="suhailkhan's streak" src="https://streak-stats.demolab.com/?user=cjcombsMedia&theme=monokai-metallian&hide_border=true"/>
+  <img align="center" alt="cjcombsMedia's streak" src="https://streak-stats.demolab.com/?user=cjcombsMedia&theme=monokai-metallian&hide_border=true"/>
   </a>
     <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=cjcombsMedia&show_icons=true&locale=en&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&count_private=true" alt="github-readme-streak-stats" alt="cjcombsMedia" />
   </a>
   
 </div>
-
+</p>
   
 
 ## 📈 GitHub Stats :
@@ -122,14 +122,14 @@
 </div>
 
 <div>
-  <a href="https://github.com/cjcombsMedia/SarcasticChatGPT">
-    <img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=cjcombsMedia&repo=SarcasticChatGPT&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats" />
+  <a href="https://github.com/cjcombsMedia/Terraform-Configs-for-Azure">
+    <img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=cjcombsMedia&repo=Terraform-Configs-for-Azure&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats" />
   </a>
 </div>
 
 <div>
-  <a href="https://github.com/cjcombsMedia/TripHub">
-    <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=cjcombsMedia&repo=TripHub&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats" />
+  <a href="https://github.com/cjcombsMedia/Basic-SIP-Troubleshooter-2014">
+    <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=cjcombsMedia&repo=Basic-SIP-Troubleshooter-2014&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats" />
   </a>
 </div>
 <div>
