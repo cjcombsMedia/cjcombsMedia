@@ -89,6 +89,13 @@ variable "award_name" {
     <a href="https://www.linkedin.com/in/cjcombs/"><img align="center" src="https://publichtmlimg.blob.core.windows.net/$web/MAKE-com_Light.png" alt="Make.com" height="55" width="55" /></a>
     <a href="https://www.linkedin.com/in/cjcombs/"><img align="center" src="https://publichtmlimg.blob.core.windows.net/$web/Python_Light.png" alt="BrightGauge" height="55" width="55" /></a>
 
+<h2>🔥 Latest Project :</h2>
+ 
+ <p align="center">
+<div align=center>
+  <a href="https://www.linkedin.com/in/cjcombs/"><img align="center" src="https://publichtmlimg.blob.core.windows.net/$web/Terraform-Azure-IaaS-MSP360-Backups.png" alt="Latest Project" height="100%" width="100%" /></a>
+</div>
+</p>
 
 <h2>🏆 Awards :</h2>
  
