@@ -51,17 +51,9 @@
 
 <h2>Microsoft Stack Expertise:</h2>
  <a href="href="https://www.linkedin.com/in/cjcombs/" target="_blank" rel="noreferrer nofollow">
-      <img src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_SharePointLOGO.png" alt="Microsoft SharePoint" height="40" width="170" >
+      <img src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_SharePointLOGO.png" alt="Microsoft SharePoint" height="55" width="55" >
     </a>
-<a href="https://www.linkedin.com/in/cjcombs/" target="_blank"><img align="left" alt="Microsoft SharePoint" src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_SharePointLOGO.png"></a>
-<a href="https://www.linkedin.com/in/cjcombs/" target="_blank"><img align="left" alt="Microsoft PowerAutomate" src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_PowerAutomate.png"></a>
-<a href="https://www.linkedin.com/in/cjcombs/" target="_blank"><img align="left" alt="Microsoft PowerApps" src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_PowerApps.png"></a>
-<a href="https://www.linkedin.com/in/cjcombs/" target="_blank"><img align="left" alt="DEV VB.NET" src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_VBNET.png"></a>
-<a href="https://www.linkedin.com/in/cjcombs/" target="_blank"><img align="left" alt="Microsoft Azure" src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_Azure.png"></a>
-<a href="https://www.linkedin.com/in/cjcombs/" target="_blank"><img align="left" alt="Microsoft Forms" src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_Forms.png"></a>
-<a href="https://www.linkedin.com/in/cjcombs/" target="_blank"><img align="left" alt="Microsoft Teams" src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_Teams.png"></a>
-<a href="https://www.linkedin.com/in/cjcombs/" target="_blank"><img align="left" alt="Microsoft Exchange" src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_Exchange.png"></a>
-<a href="https://www.linkedin.com/in/cjcombs/" target="_blank"><img align="left" alt="Microsoft Office 365" src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_Office365.png"></a>
+
 
 <h2>🏆 Awards :</h2>
  
