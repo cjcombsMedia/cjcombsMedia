@@ -53,6 +53,30 @@
  <a href="href="https://www.linkedin.com/in/cjcombs/" target="_blank" rel="noreferrer nofollow">
       <img src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_SharePointLOGO.png" alt="Microsoft SharePoint" height="55" width="55" >
     </a>
+    <a href="href="https://www.linkedin.com/in/cjcombs/" target="_blank" rel="noreferrer nofollow">
+      <img src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_SharePointLOGO.png" alt="Microsoft SharePoint" height="55" width="55" >
+    </a>
+    <a href="href="https://www.linkedin.com/in/cjcombs/" target="_blank" rel="noreferrer nofollow">
+      <img src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_SharePointLOGO.png" alt="Microsoft SharePoint" height="55" width="55" >
+    </a>
+    <a href="href="https://www.linkedin.com/in/cjcombs/" target="_blank" rel="noreferrer nofollow">
+      <img src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_SharePointLOGO.png" alt="Microsoft SharePoint" height="55" width="55" >
+    </a>
+    <a href="href="https://www.linkedin.com/in/cjcombs/" target="_blank" rel="noreferrer nofollow">
+      <img src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_SharePointLOGO.png" alt="Microsoft SharePoint" height="55" width="55" >
+    </a>
+    <a href="href="https://www.linkedin.com/in/cjcombs/" target="_blank" rel="noreferrer nofollow">
+      <img src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_SharePointLOGO.png" alt="Microsoft SharePoint" height="55" width="55" >
+    </a>
+    <a href="href="https://www.linkedin.com/in/cjcombs/" target="_blank" rel="noreferrer nofollow">
+      <img src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_SharePointLOGO.png" alt="Microsoft SharePoint" height="55" width="55" >
+    </a>
+    <a href="href="https://www.linkedin.com/in/cjcombs/" target="_blank" rel="noreferrer nofollow">
+      <img src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_SharePointLOGO.png" alt="Microsoft SharePoint" height="55" width="55" >
+    </a>
+    <a href="href="https://www.linkedin.com/in/cjcombs/" target="_blank" rel="noreferrer nofollow">
+      <img src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_SharePointLOGO.png" alt="Microsoft SharePoint" height="55" width="55" >
+    </a>
 
 
 <h2>🏆 Awards :</h2>
