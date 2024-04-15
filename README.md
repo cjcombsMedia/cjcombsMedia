@@ -98,10 +98,9 @@ variable "award_name" {
 </p>
 
 <h2>🏆 Awards :</h2>
- 
  <p align="center">
-<div align=center><img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=cjcombsMedia&theme=darkhub&column=8&margin-h=12&margin-w=5&no-bg=true" alt="Award" />
-    </a>
+<div align=center>
+  <a href="https://www.linkedin.com/in/cjcombs/"><img align="center" src="https://publichtmlimg.blob.core.windows.net/$web/Allstate-Award-For-Excellence-high5.JPG" alt="Allstate Award for IT Service Management Excellence high5" height="80%" width="100%" /></a>
 </div>
 </p>
 
