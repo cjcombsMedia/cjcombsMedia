@@ -49,11 +49,11 @@
 
 </p>
 
-<h2>Microsoft Stack Expertise:</h2>
- <a href="href="https://www.linkedin.com/in/cjcombs/" target="_blank" rel="noreferrer nofollow">
+<h2>Tools, Languages, Expertise In:</h2>
+ <a href="https://www.linkedin.com/in/cjcombs/" target="_blank" rel="noreferrer nofollow">
       <img src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_SharePointLOGO.png" alt="Microsoft SharePoint" height="55" width="55" >
     </a>
-    <a href="href="https://www.linkedin.com/in/cjcombs/" target="_blank" rel="noreferrer nofollow">
+    <a href="https://www.linkedin.com/in/cjcombs/" target="_blank" rel="noreferrer nofollow">
       <img src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_SharePointLOGO.png" alt="Microsoft SharePoint" height="55" width="55" >
     </a>
     <a href="href="https://www.linkedin.com/in/cjcombs/" target="_blank" rel="noreferrer nofollow">
