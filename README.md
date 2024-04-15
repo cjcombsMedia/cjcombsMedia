@@ -26,23 +26,16 @@ resource "title" "principal-it-engineer" {
   name     = international.resource_title_name
   location = "New Zealand OR Belgium - IYKYK - Tomorrowland"
   skills = {
-    Microsoft = "Azure"
-    Microsoft = "VB.NT"
-    StorageOver2TB = "BILL"
+    Primary = "Microsoft Principal Engineer"
+    Secondary = "Scripting"
+    Tiertiary = "Automation"
   }
 }
 
-provider = "azure" {
-  pronouns: "dude" | "tall one",
-  code: [Terraform, VB.NET, HTML, CSS, React, Python, JavaScript],
-  tools: [Windows, Apple macOS, Linux, MSP360, DevConnect, Jenkins, Docker],
-  architecture: ["IT Engineering", "problem-solving", "ITIL-ITSM-SOC"],
-  techAwards: {
-                        purpose: "GivingOfTimeBackToMany",
-                        when: "UTC2015",
-                        awardName: "Allstate ITSM High5"
-                      },
- challenge: "Converting all of my PowerShell to MANY different versions of code for the world"
+# Variable to show Awards
+variable "award_name" {
+  type        = string
+  description = "Allstate ITSM high5 - 2015"
 }
 ```
 
