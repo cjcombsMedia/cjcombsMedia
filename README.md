@@ -40,11 +40,9 @@
 </div>
 
 
--   <img width="15px" src="https://cdn-icons-png.flaticon.com/512/534/534621.png" alt="Terminal Icon" /> I’m currently Working as 🧑‍💻 **Full Stack Web-Developer(MERN)**
--   <img width="15px" src="https://avatars.githubusercontent.com/u/61222534?s=200&v=4" alt="Masai Icon" /> I’m a Student at <a href="https://www.linkedin.com/school/masai-school/">**Masai**</a>
--   <img width="15px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="Linkedin Icon" /> Join Me On Linkedin <a href="https://www.linkedin.com/in/suhail-khan-645998127/">**suhail khan**</a>
--   <img width="13px" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="Gmail Icon" /> How to reach me **khansohail015@gmail.com**
--   <img width="13px" src="https://cdn-icons-png.flaticon.com/512/4365/4365934.png" alt="Portfolio Icon" /> My portfolio **<a>https://cjcombsMedia.github.io/</a>**
+-   <img width="15px" src="https://cdn-icons-png.flaticon.com/512/534/534621.png" alt="Terminal Icon" /> I’m currently Working as 🧑‍💻 **Senior NOC/SOC Engineer**
+-   <img width="15px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="Linkedin Icon" /> Join Me On Linkedin <a href="https://www.linkedin.com/in/suhail-khan-645998127/">**christopher combs**</a>
+-   <img width="13px" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="Gmail Icon" /> How to reach me **cjcombs.noc@gmail.com**
 
 ## Connect with me:
 
