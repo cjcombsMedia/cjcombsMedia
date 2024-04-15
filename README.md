@@ -16,7 +16,7 @@
   <img src="https://publichtmlimg.blob.core.windows.net/$web/CJCombs_PrincipalITEngineer_NOName.png" alt="" width="100%" height="90%">
 </p>
  
-```terraform
+```powershell
 # Commenting code should ALWAYS be priority
 provider "cjcombs" {
   features {tall, bald, viking-like, passionate-problem-solver}
