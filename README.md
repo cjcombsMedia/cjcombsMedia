@@ -16,7 +16,7 @@
   <img src="https://publichtmlimg.blob.core.windows.net/$web/CJCombs_PrincipalITEngineer_NOName.png" alt="" width="100%" height="90%">
 </p>
  
-```javascript
+```terraform
 provider = "azure" {
   pronouns: "dude" | "tall one",
   code: [Terraform, VB.NET, HTML, CSS, React, Python, JavaScript],
