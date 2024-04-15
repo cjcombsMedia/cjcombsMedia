@@ -4,11 +4,13 @@
 
 <!-- ## Praticing Principal IT Engineer - Microsoft Stack and VB.net Developer -->
 
-I have 🎯 30+ years of experience in in designing, building and supporting enterprise systems in the cloud and on-premise for Fortune 100/500 companies and small start-up businesses. I also specialize in SharePoint Management, Development, Design and Automation. I also have extensive experience in User Experience App development for organizations (Business Line Apps) for efficiency and effectiveness.
   
 <!--   ![MasterHead](https://www.hays.com.au/documents/3173609/3716998/Image_Tech_Job_Software_Developer_LandingPage.jpg/482fcd02-18cd-7adc-69ec-2810709139af?t=1618902865233) -->
   <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">,CJ Combs Award Winning and Certified Problem Solver! </h1>
 <h3 align="center">PRINCIPAL IT ENGINEER | INFORMATION TECHNOLOGY | PASSIONATE PROBLEM SOLVER</h3>
+<br>
+
+<h2 align="center">I have 🎯 30+ years of experience in in designing, building and supporting enterprise systems in the cloud and on-premise for Fortune 100/500 companies and small start-up businesses. I also specialize in SharePoint Management, Development, Design and Automation. I also have extensive experience in User Experience App development for organizations (Business Line Apps) for efficiency and effectiveness.</h2>
 
 <p align="center">
   <img src="https://publichtmlimg.blob.core.windows.net/$web/CJCombs_PrincipalITEngineer.png" alt="" width="100%" height="90%">
