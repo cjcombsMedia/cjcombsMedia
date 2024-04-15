@@ -10,7 +10,7 @@
 <h3 align="center">PRINCIPAL IT ENGINEER | INFORMATION TECHNOLOGY | PASSIONATE PROBLEM SOLVER</h3>
 
 <p align="center">
-  <img src="https://publichtmlimg.blob.core.windows.net/$web/CJCombs_PrincipalITEngineer.png" alt="" width="60%" height="10%">
+  <img src="https://publichtmlimg.blob.core.windows.net/$web/CJCombs_PrincipalITEngineer.png" alt="" width="80%" height="60%">
 </p>
  
 
