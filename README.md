@@ -64,21 +64,21 @@
 </p>
  
  
-## 🔣 Microsoft Stack Expertise:
+## Microsoft Stack Expertise:
 
 <p align="left">
-<a href="https://www.linkedin.com/in/cjcombs/" target="_blank"><img align="left" alt="Microsoft SharePoint" width="55px" src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_SharePointLOGO.png" style="padding-right:10px;" />
-<a href="https://www.linkedin.com/in/cjcombs/" target="_blank"><img align="left" alt="Microsoft PowerAutomate" width="55px" src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_PowerAutomate.png" style="padding-right:10px;" />
-<a href="https://www.linkedin.com/in/cjcombs/" target="_blank"><img align="left" alt="Microsoft PowerApps" width="55px" src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_PowerApps.png" style="padding-right:10px;" />
-<a href="https://www.linkedin.com/in/cjcombs/" target="_blank"><img align="left" alt="DEV VB.NET" width="55px" src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_VBNET.png" style="padding-right:10px;" />
-<a href="https://www.linkedin.com/in/cjcombs/" target="_blank"><img align="left" alt="Microsoft Azure" width="55px" src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_Azure.png" style="padding-right:10px;" />
-<a href="https://www.linkedin.com/in/cjcombs/" target="_blank"><img align="left" alt="Microsoft Forms" width="55px" src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_Forms.png" style="padding-right:10px;" />
-<a href="https://www.linkedin.com/in/cjcombs/" target="_blank"><img align="left" alt="Microsoft Teams" width="55px" src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_Teams.png" style="padding-right:10px;" />
-<a href="https://www.linkedin.com/in/cjcombs/" target="_blank"><img align="left" alt="Microsoft Exchange" width="55px" src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_Exchange.png" style="padding-right:10px;" />
-<a href="https://www.linkedin.com/in/cjcombs/" target="_blank"><img align="left" alt="Microsoft Office 365" width="55px" style="padding-right:10px;" src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_Office365.png" />
-<br>
+<a href="https://www.linkedin.com/in/cjcombs/" target="_blank"><img align="left" alt="Microsoft SharePoint" width="55px" src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_SharePointLOGO.png" style="padding-right:10px;" /></a>
+<a href="https://www.linkedin.com/in/cjcombs/" target="_blank"><img align="left" alt="Microsoft PowerAutomate" width="55px" src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_PowerAutomate.png" style="padding-right:10px;" /></a>
+<a href="https://www.linkedin.com/in/cjcombs/" target="_blank"><img align="left" alt="Microsoft PowerApps" width="55px" src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_PowerApps.png" style="padding-right:10px;" /></a>
+<a href="https://www.linkedin.com/in/cjcombs/" target="_blank"><img align="left" alt="DEV VB.NET" width="55px" src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_VBNET.png" style="padding-right:10px;" /></a>
+<a href="https://www.linkedin.com/in/cjcombs/" target="_blank"><img align="left" alt="Microsoft Azure" width="55px" src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_Azure.png" style="padding-right:10px;" /></a>
+<a href="https://www.linkedin.com/in/cjcombs/" target="_blank"><img align="left" alt="Microsoft Forms" width="55px" src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_Forms.png" style="padding-right:10px;" /></a>
+<a href="https://www.linkedin.com/in/cjcombs/" target="_blank"><img align="left" alt="Microsoft Teams" width="55px" src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_Teams.png" style="padding-right:10px;" /></a>
+<a href="https://www.linkedin.com/in/cjcombs/" target="_blank"><img align="left" alt="Microsoft Exchange" width="55px" src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_Exchange.png" style="padding-right:10px;" /></a>
+<a href="https://www.linkedin.com/in/cjcombs/" target="_blank"><img align="left" alt="Microsoft Office 365" width="55px" style="padding-right:10px;" src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_Office365.png" /></a>
+</p>
 
-## 🔣 Languages and Tools:
+## Languages and Tools:
 
 <p align="left">
 <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white"></a>
@@ -92,6 +92,7 @@
 <a href="#">
   <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=transparent">
 </a>
+</p>
 
 
 ## 🔥 Streak stats :
