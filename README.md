@@ -50,32 +50,32 @@
 </p>
 
 <h2>Tools, Languages, Expertise In:</h2>
- <a href="https://www.linkedin.com/in/cjcombs/" target="_blank" rel="noreferrer nofollow">
+ <a href="https://www.linkedin.com/in/cjcombs/" rel="noreferrer nofollow">
       <img src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_SharePointLOGO.png" alt="Microsoft SharePoint" height="55" width="55" >
     </a>
-    <a href="https://www.linkedin.com/in/cjcombs/" target="_blank" rel="noreferrer nofollow">
-      <img src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_SharePointLOGO.png" alt="Microsoft SharePoint" height="55" width="55" >
+    <a href="https://www.linkedin.com/in/cjcombs/" rel="noreferrer nofollow">
+      <img src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_PowerAutomate.png" alt="Microsoft PowerAutomate" height="55" width="55" >
     </a>
-    <a href="href="https://www.linkedin.com/in/cjcombs/" target="_blank" rel="noreferrer nofollow">
-      <img src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_SharePointLOGO.png" alt="Microsoft SharePoint" height="55" width="55" >
+    <a href="https://www.linkedin.com/in/cjcombs/" rel="noreferrer nofollow">
+      <img src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_PowerApps.png" alt="Microsoft PowerApps" height="55" width="55" >
     </a>
-    <a href="href="https://www.linkedin.com/in/cjcombs/" target="_blank" rel="noreferrer nofollow">
-      <img src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_SharePointLOGO.png" alt="Microsoft SharePoint" height="55" width="55" >
+    <a href="https://www.linkedin.com/in/cjcombs/" rel="noreferrer nofollow">
+      <img src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_VBNET.png" alt="Microsoft VB.NET" height="55" width="55" >
     </a>
-    <a href="href="https://www.linkedin.com/in/cjcombs/" target="_blank" rel="noreferrer nofollow">
-      <img src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_SharePointLOGO.png" alt="Microsoft SharePoint" height="55" width="55" >
+    <a href="https://www.linkedin.com/in/cjcombs/" rel="noreferrer nofollow">
+      <img src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_Azure.png" alt="Microsoft Azure" height="55" width="55" >
     </a>
-    <a href="href="https://www.linkedin.com/in/cjcombs/" target="_blank" rel="noreferrer nofollow">
-      <img src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_SharePointLOGO.png" alt="Microsoft SharePoint" height="55" width="55" >
+    <a href="https://www.linkedin.com/in/cjcombs/" rel="noreferrer nofollow">
+      <img src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_Forms.png" alt="Microsoft Forms" height="55" width="55" >
     </a>
-    <a href="href="https://www.linkedin.com/in/cjcombs/" target="_blank" rel="noreferrer nofollow">
-      <img src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_SharePointLOGO.png" alt="Microsoft SharePoint" height="55" width="55" >
+    <a href="https://www.linkedin.com/in/cjcombs/" rel="noreferrer nofollow">
+      <img src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_Teams.png" alt="Microsoft Teams" height="55" width="55" >
     </a>
-    <a href="href="https://www.linkedin.com/in/cjcombs/" target="_blank" rel="noreferrer nofollow">
-      <img src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_SharePointLOGO.png" alt="Microsoft SharePoint" height="55" width="55" >
+    <a href="https://www.linkedin.com/in/cjcombs/" rel="noreferrer nofollow">
+      <img src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_Exchange.png" alt="Microsoft Exchange Online" height="55" width="55" >
     </a>
-    <a href="href="https://www.linkedin.com/in/cjcombs/" target="_blank" rel="noreferrer nofollow">
-      <img src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_SharePointLOGO.png" alt="Microsoft SharePoint" height="55" width="55" >
+    <a href="https://www.linkedin.com/in/cjcombs/" rel="noreferrer nofollow">
+      <img src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_Office365.png" alt="Microsoft Office" height="55" width="55" >
     </a>
 
 
