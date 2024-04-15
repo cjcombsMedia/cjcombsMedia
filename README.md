@@ -59,9 +59,9 @@ variable "award_name" {
 </div>
 
 
--   <img width="15px" src="https://cdn-icons-png.flaticon.com/512/534/534621.png" alt="Terminal Icon" /> I’m currently Working as a **Senior NOC/SOC Engineer for an MSP**
--   <img width="15px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="Linkedin Icon" /> Join Me On Linkedin <a href="https://www.linkedin.com/in/suhail-khan-645998127/">**christopher combs**</a>
--   <img width="13px" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="Gmail Icon" /> How to reach me **cjcombs.noc@gmail.com**
+-   <img width="15px" src="https://cdn-icons-png.flaticon.com/512/534/534621.png" alt="Terminal Icon" /> I’m currently Working as a **>_ Senior NOC/SOC Engineer for an MSP**
+-   <img width="15px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="Linkedin Icon" /> Join Me On Linkedin <a href="https://www.linkedin.com/in/cjcombs/">**>_ Christopher Combs**</a>
+-   <img width="13px" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="Gmail Icon" /> How to reach me **>_ cjcombs.noc@gmail.com**
 
 <h2>Connect with me:</h2>
 
