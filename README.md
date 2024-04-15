@@ -16,7 +16,7 @@
 
   
   <p align="center" color:"red"> 
-          <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70404&random=false&width=435&lines=Hi%2C+My+name+is+CJ+Combs;I+am+a+25%2B+Year+Principal+IT+Engineer;Looking+for+International+Work;Have+an+awesome+day!" alt="Typing SVG" /></a>
+          <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70404&random=false&width=435&lines=Hi%2C+My+name+is+CJ+Combs;I+am+a+25%2B+Year+Principal+IT+Eng.;Looking+for+Intl +Work;Have+an+awesome+day!" alt="Typing SVG" /></a>
       </p> 
   
 
