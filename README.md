@@ -17,17 +17,17 @@
 </p>
  
 ```javascript
-const thai = {
+provider = {
   pronouns: "dude" | "tall one",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
+  code: [Terraform, VB.NET, HTML, CSS, React, Python, JavaScript],
+  tools: [Windows, Apple macOS, Linux, MSP360, DevConnect, Jenkins, Docker],
+  architecture: ["IT Engineering", "problem-solving", "ITIL-ITSM-SOC"],
+  techAwards: {
+                        purpose: "GivingOfTimeBackToMany",
+                        when: "UTC2015",
+                        awardName: "Allstate ITSM High5"
                       },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+ challenge: "Converting all of my PowerShell to MANY different versions of code for automation so the world can use and speed up their lives"
 }
 ```
 
