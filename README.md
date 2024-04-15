@@ -98,7 +98,7 @@ variable "award_name" {
 </p>
 
 <h2>🏆 Awards :</h2>
- <p align="center">
+ <p align="center"> Allstate’s prestigious high5 ATSV Award for 2015. This app saved each user on average 290 hours of time annually. (12 days approx.) Users could now get more cross-training or certifications.
 <div align=center>
   <a href="https://www.linkedin.com/in/cjcombs/"><img align="center" src="https://publichtmlimg.blob.core.windows.net/$web/Allstate-Award-For-Excellence-high5.JPG" alt="Allstate Award for IT Service Management Excellence high5" height="25%" width="25%" /></a>
 </div>
