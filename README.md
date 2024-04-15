@@ -6,7 +6,7 @@
 
   
 <!--   ![MasterHead](https://www.hays.com.au/documents/3173609/3716998/Image_Tech_Job_Software_Developer_LandingPage.jpg/482fcd02-18cd-7adc-69ec-2810709139af?t=1618902865233) -->
-  <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, At your service! </h1>
+  <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">,CJ Combs at your service! </h1>
 <h3 align="center">A Passionate IT Problem Solver</h3>
 
 <p align="center">
