@@ -64,6 +64,15 @@
 ## 🔣 Languages and Tools:
 
 <p align="left">
+<a href="https://www.linkedin.com/in/cjcombs/" target="_blank"><img align="left" alt="Microsoft SharePoint" width="55px" src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_SharePointLOGO.png" style="padding-right:10px;" />
+<a href="https://www.linkedin.com/in/cjcombs/" target="_blank"><img align="left" alt="Microsoft PowerAutomate" width="55px" src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_PowerAutomate.png" style="padding-right:10px;" />
+<a href="https://www.linkedin.com/in/cjcombs/" target="_blank"><img align="left" alt="Microsoft PowerApps" width="55px" src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_PowerApps.png" style="padding-right:10px;" />
+<a href="https://www.linkedin.com/in/cjcombs/" target="_blank"><img align="left" alt="DEV VB.NET" width="55px" src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_VBNET.png" style="padding-right:10px;" />
+<a href="https://www.linkedin.com/in/cjcombs/" target="_blank"><img align="left" alt="Microsoft Azure" width="55px" src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_Azure.png" style="padding-right:10px;" />
+<a href="https://www.linkedin.com/in/cjcombs/" target="_blank"><img align="left" alt="Microsoft Forms" width="55px" src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_Forms.png" style="padding-right:10px;" />
+<a href="https://www.linkedin.com/in/cjcombs/" target="_blank"><img align="left" alt="Microsoft Teams" width="55px" src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_Teams.png" style="padding-right:10px;" />
+<a href="https://www.linkedin.com/in/cjcombs/" target="_blank"><img align="left" alt="Microsoft Exchange" width="55px" src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_Exchange.png" style="padding-right:10px;" />
+<a href="https://www.linkedin.com/in/cjcombs/" target="_blank"><img align="left" alt="Microsoft Office 365" width="55px" style="padding-right:10px;" src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_Office365.png" />
 <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white"></a>
 <a href="#"><img alt="Sql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></a>
 <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white&style=for-the-badge"></a>
