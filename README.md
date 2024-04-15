@@ -52,12 +52,10 @@
 
 </p>
 
-## 🏆 Trophies :
+## 🏆 Awards :
  
  <p align="center">
-<div align=center>
-  <a href="https://github.com/cjcombsMedia/JavaScriptCodingInterviewQuestions" title="Go to Source">
-      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=cjcombsMedia&theme=darkhub&column=8&margin-h=12&margin-w=5&no-bg=true" alt="TROPHY" />
+<div align=center><img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=cjcombsMedia&theme=darkhub&column=8&margin-h=12&margin-w=5&no-bg=true" alt="Award" />
     </a>
 </div>
 </p>
@@ -66,38 +64,17 @@
 ## 🔣 Languages and Tools:
 
 <p align="left">
+<a href="#"><img alt="Windows" src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white"></a>
+<a href="#"><img alt="Sql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></a>
 <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white&style=for-the-badge"></a>
 <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white&style=for-the-badge"></a>
-<a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black&style=for-the-badge"></a>
-<a href="#"><img alt="Json Server" src="https://img.shields.io/badge/json%20server-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink"></a>
-<a href="#"><img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=sass&logoColor=white"></a>
-<a href="#"><img alt="chakra ui" src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white"></a>
 <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
-<a href="#"><img alt="Redux" src="https://img.shields.io/badge/Redux-593D88.svg?style=for-the-badge&logo=redux&logoColor=white"></a>
-<a href="#"><img alt="React Router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"></a>
-<a href="#"><img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></a>
-<a href="#"><img alt="Node JS" src="https://img.shields.io/badge/Node.js-43853D.svg?style=for-the-badge&logo=node.js&logoColor=white"></a>
 <a href="#"><img alt="Mongo DB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></a>
-<a href="#"><img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"></a>
-<a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
 <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"></a>
-<a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
-<a href="#"> <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
-<a href="#"><img alt="Sql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></a>
-<a href="#"><img alt="babel" src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white"a>
-<a href="#"><img alt="Material UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"></a>
-<a href="#"><img alt="Windows" src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white"></a>
-<a href="#">
-  <img alt="Thunder Client" src="https://img.shields.io/badge/Thunder%20Client-0080FF?style=for-the-badge&logo=thunder-client&logoColor=white">
-</a>
-<a href="#">
-  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-</a>
+<a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black&style=for-the-badge"></a>
 <a href="#">
   <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=transparent">
 </a>
-
-
 
 ## 🔥 Streak stats :
 
@@ -109,8 +86,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=cjcombsMedia&show_icons=true&locale=en&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&count_private=true" alt="github-readme-streak-stats" alt="suhailkhan" />
   </a>
   
-
-
 </div>
 
   
@@ -185,7 +160,7 @@
   <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" color="red">
   </p>
   
-  [Suhail Khan](https://github.com/cjcombsMedia)
+  [CJ Combs](https://github.com/cjcombsMedia)
 
 # 👋 CJ Combs
 
