@@ -122,8 +122,8 @@
 </div>
 
 <div>
-  <a href="https://github.com/cjcombsMedia/FaishonFrenzy">
-    <img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=cjcombsMedia&repo=FaishonFrenzy&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats" />
+  <a href="https://github.com/cjcombsMedia/SarcasticChatGPT">
+    <img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=cjcombsMedia&repo=SarcasticChatGPT&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats" />
   </a>
 </div>
 
