@@ -22,6 +22,16 @@ provider "cjcombs" {
   version = "=24.49.4"  # Specify provider version for consistency and if he is really good or not
 }
 
+resource "title" "principal-it-engineer" {
+  name     = international.resource_title_name
+  location = "New Zealand OR Belgium - IYKYK - Tomorrowland"
+  skills = {
+    Microsoft = "Azure"
+    Microsoft = "VB.NT"
+    StorageOver2TB = "BILL"
+  }
+}
+
 provider = "azure" {
   pronouns: "dude" | "tall one",
   code: [Terraform, VB.NET, HTML, CSS, React, Python, JavaScript],
