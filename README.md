@@ -58,38 +58,38 @@ provider = "azure" {
 <h2>Connect with me:</h2>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/cjcombs/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/suhail-khan-645998127/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/cjcombs/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/suhail-khan-645998127/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@ElevateYourSkils" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@ElevateYourSkils" height="30" width="40" /></a>
 
 </p>
 
 <h2>🛠 Tools, Languages, Expertise In:</h2>
  <a href="https://www.linkedin.com/in/cjcombs/" rel="noreferrer nofollow">
-      <img src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_SharePointLOGO.png" alt="Microsoft SharePoint" height="55" width="55" >
+      <img src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_SharePointLOGO.png" alt="Microsoft SharePoint" height="55" width="55" />
     </a>
     <a href="https://www.linkedin.com/in/cjcombs/" rel="noreferrer nofollow">
-      <img src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_PowerAutomate.png" alt="Microsoft PowerAutomate" height="55" width="55" >
+      <img src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_PowerAutomate.png" alt="Microsoft PowerAutomate" height="55" width="55" />
     </a>
     <a href="https://www.linkedin.com/in/cjcombs/" rel="noreferrer nofollow">
-      <img src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_PowerApps.png" alt="Microsoft PowerApps" height="55" width="55" >
+      <img src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_PowerApps.png" alt="Microsoft PowerApps" height="55" width="55" />
     </a>
     <a href="https://www.linkedin.com/in/cjcombs/" rel="noreferrer nofollow">
-      <img src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_VBNET.png" alt="Microsoft VB.NET" height="55" width="55" >
+      <img src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_VBNET.png" alt="Microsoft VB.NET" height="55" width="55" />
     </a>
     <a href="https://www.linkedin.com/in/cjcombs/" rel="noreferrer nofollow">
-      <img src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_Azure.png" alt="Microsoft Azure" height="55" width="55" >
+      <img src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_Azure.png" alt="Microsoft Azure" height="55" width="55" />
     </a>
     <a href="https://www.linkedin.com/in/cjcombs/" rel="noreferrer nofollow">
-      <img src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_Forms.png" alt="Microsoft Forms" height="55" width="55" >
+      <img src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_Forms.png" alt="Microsoft Forms" height="55" width="55" />
     </a>
     <a href="https://www.linkedin.com/in/cjcombs/" rel="noreferrer nofollow">
-      <img src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_Teams.png" alt="Microsoft Teams" height="55" width="55" >
+      <img src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_Teams.png" alt="Microsoft Teams" height="55" width="55" />
     </a>
     <a href="https://www.linkedin.com/in/cjcombs/" rel="noreferrer nofollow">
-      <img src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_Exchange.png" alt="Microsoft Exchange Online" height="55" width="55" >
+      <img src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_Exchange.png" alt="Microsoft Exchange Online" height="55" width="55" />
     </a>
     <a href="https://www.linkedin.com/in/cjcombs/" rel="noreferrer nofollow">
-      <img src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_Office365.png" alt="Microsoft Office" height="55" width="55" >
+      <img src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_Office365.png" alt="Microsoft Office" height="55" width="55" />
     </a>
 
 
