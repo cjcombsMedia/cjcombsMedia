@@ -27,8 +27,8 @@ resource "title" "principal-it-engineer" {
   location = "New Zealand OR Belgium - IYKYK - Tomorrowland"
   skills = {
     Primary = "Microsoft Principal Engineer"
-    Secondary = "Scripting"
-    Tiertiary = "Automation"
+    Secondary = "Scripting and overall Wranlger of text"
+    Tiertiary = "IT Automation"
   }
 }
 
