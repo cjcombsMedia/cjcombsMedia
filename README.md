@@ -17,7 +17,7 @@
 </p>
  
 ```javascript
-provider = {
+provider = "azure" {
   pronouns: "dude" | "tall one",
   code: [Terraform, VB.NET, HTML, CSS, React, Python, JavaScript],
   tools: [Windows, Apple macOS, Linux, MSP360, DevConnect, Jenkins, Docker],
@@ -27,7 +27,7 @@ provider = {
                         when: "UTC2015",
                         awardName: "Allstate ITSM High5"
                       },
- challenge: "Converting all of my PowerShell to MANY different versions of code for automation so the world can use and speed up their lives"
+ challenge: "Converting all of my PowerShell to MANY different versions of code for the world"
 }
 ```
 
