@@ -17,6 +17,11 @@
 </p>
  
 ```terraform
+provider "cjcombs" {
+  features {tall, bald, viking-like, passionate-problem-solver}
+  version = "=24.49.4"  # Specify provider version for consistency and if he is really good or not
+}
+
 provider = "azure" {
   pronouns: "dude" | "tall one",
   code: [Terraform, VB.NET, HTML, CSS, React, Python, JavaScript],
