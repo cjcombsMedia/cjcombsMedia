@@ -40,7 +40,7 @@
 </div>
 
 
--   <img width="15px" src="https://cdn-icons-png.flaticon.com/512/534/534621.png" alt="Terminal Icon" /> I’m currently Working as 🧑‍💻 **Senior NOC/SOC Engineer**
+-   <img width="15px" src="https://cdn-icons-png.flaticon.com/512/534/534621.png" alt="Terminal Icon" /> I’m currently Working as a **Senior NOC/SOC Engineer for an MSP**
 -   <img width="15px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="Linkedin Icon" /> Join Me On Linkedin <a href="https://www.linkedin.com/in/suhail-khan-645998127/">**christopher combs**</a>
 -   <img width="13px" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="Gmail Icon" /> How to reach me **cjcombs.noc@gmail.com**
 
@@ -61,7 +61,7 @@
 </p>
  
  
-## 🔣 Languages and Tools:
+## 🔣 Microsoft Stack Expertise:
 
 <p align="left">
 <a href="https://www.linkedin.com/in/cjcombs/" target="_blank"><img align="left" alt="Microsoft SharePoint" width="55px" src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_SharePointLOGO.png" style="padding-right:10px;" />
@@ -81,9 +81,22 @@
 <a href="#"><img alt="Mongo DB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></a>
 <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"></a>
 <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black&style=for-the-badge"></a>
+
+## 🔣 Languages and Tools:
+
+<p align="left">
+<a href="#"><img alt="Windows" src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white"></a>
+<a href="#"><img alt="Sql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></a>
+<a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white&style=for-the-badge"></a>
+<a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white&style=for-the-badge"></a>
+<a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
+<a href="#"><img alt="Mongo DB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></a>
+<a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"></a>
+<a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black&style=for-the-badge"></a>
 <a href="#">
   <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=transparent">
 </a>
+
 
 ## 🔥 Streak stats :
 
