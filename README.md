@@ -73,14 +73,7 @@
 <a href="https://www.linkedin.com/in/cjcombs/" target="_blank"><img align="left" alt="Microsoft Teams" width="55px" src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_Teams.png" style="padding-right:10px;" />
 <a href="https://www.linkedin.com/in/cjcombs/" target="_blank"><img align="left" alt="Microsoft Exchange" width="55px" src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_Exchange.png" style="padding-right:10px;" />
 <a href="https://www.linkedin.com/in/cjcombs/" target="_blank"><img align="left" alt="Microsoft Office 365" width="55px" style="padding-right:10px;" src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_Office365.png" />
-<a href="#"><img alt="Windows" src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white"></a>
-<a href="#"><img alt="Sql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></a>
-<a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white&style=for-the-badge"></a>
-<a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white&style=for-the-badge"></a>
-<a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
-<a href="#"><img alt="Mongo DB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></a>
-<a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"></a>
-<a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black&style=for-the-badge"></a>
+
 
 ## 🔣 Languages and Tools:
 
