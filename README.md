@@ -19,7 +19,7 @@
 
   
   <p align="center" color:"red"> 
-          <img src="https://readme-typing-svg.demolab.com/?lines=H1!; Experienced IT professional; interested in IT, Microsoft and love to problem solve !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000">
+          <img src="https://readme-typing-svg.demolab.com/?lines=Hi!; Experienced IT professional; interested in IT, Microsoft and love to problem solve !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000">
       </p> 
   
 
