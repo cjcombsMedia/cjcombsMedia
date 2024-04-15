@@ -12,14 +12,11 @@
 <p align="center">
   <img src="https://elfinitytechnologies.com/wp-content/themes/skt-fse/assets/images/banner-img.png" alt="" width="60%" height="10%">
 </p>
-
-
-
-  
+ 
 
   
   <p align="center" color:"red"> 
-          <img src="https://readme-typing-svg.demolab.com/?lines=Hi!; Experienced IT professional; interested in IT, Microsoft and love to problem solve !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000">
+          <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70404&random=false&width=435&lines=Hi%2C+My+name+is+CJ+Combs;I+am+a+25%2B+Year+Principal+IT+Engineer;Looking+for+International+Work;Have+an+awesome+day!" alt="Typing SVG" /></a>
       </p> 
   
 
