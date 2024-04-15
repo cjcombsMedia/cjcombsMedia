@@ -10,6 +10,7 @@
 <h3 align="center">PRINCIPAL IT ENGINEER | INFORMATION TECHNOLOGY | PASSIONATE PROBLEM SOLVER</h3>
 
 <h4 align="center">I have 🎯 30+ years of experience in in designing, building and supporting enterprise systems in the cloud and on-premise for Fortune 100/500 companies and small start-up businesses. I also specialize in SharePoint Management, Development, Design and Automation. I also have extensive experience in User Experience App development for organizations (Business Line Apps) for efficiency and effectiveness.</h4>
+<br>
 
 <p align="center">
   <img src="https://publichtmlimg.blob.core.windows.net/$web/CJCombs_PrincipalITEngineer.png" alt="" width="100%" height="90%">
