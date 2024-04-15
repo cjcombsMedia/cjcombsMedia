@@ -16,6 +16,20 @@
   <img src="https://publichtmlimg.blob.core.windows.net/$web/CJCombs_PrincipalITEngineer_NOName.png" alt="" width="100%" height="90%">
 </p>
  
+```javascript
+const thai = {
+  pronouns: "dude" | "tall one",
+  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
+  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  techCommunities: {
+                        coorganizer: "AfroPython",
+                        speaker: "Latinity",
+                        mentor: "EducaTRANSforma"
+                      },
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
+```
 
   
   <p align="center" color:"red"> 
