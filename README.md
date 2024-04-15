@@ -88,7 +88,7 @@
   <img align="center" alt="suhailkhan's streak" src="https://streak-stats.demolab.com/?user=cjcombsMedia&theme=monokai-metallian&hide_border=true"/>
   </a>
     <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cjcombsMedia&show_icons=true&locale=en&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&count_private=true" alt="github-readme-streak-stats" alt="suhailkhan" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cjcombsMedia&show_icons=true&locale=en&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&count_private=true" alt="github-readme-streak-stats" alt="cjcombsMedia" />
   </a>
   
 </div>
@@ -116,8 +116,8 @@
  ## 📂 Projects :
 
 <div>
-  <a href="https://github.com/cjcombsMedia/Aerowear">
-    <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=cjcombsMedia&repo=Aerowear&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats" />
+  <a href="https://github.com/cjcombsMedia/NOCToolbox">
+    <img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=cjcombsMedia&repo=NOCToolbox&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats" />
   </a>
 </div>
 
