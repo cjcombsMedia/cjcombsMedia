@@ -81,6 +81,7 @@ variable "award_name" {
     <a href="https://www.linkedin.com/in/cjcombs/"><img align="center" src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_Teams.png" alt="Microsoft Teams" height="55" width="55" /></a>
     <a href="https://www.linkedin.com/in/cjcombs/"><img align="center" src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_Exchange.png" alt="Microsoft Exchange Online" height="55" width="55" /></a>
     <a href="https://www.linkedin.com/in/cjcombs/"><img align="center" src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_Office365.png" alt="Microsoft Office" height="55" width="55" /></a>
+    <a href="https://www.linkedin.com/in/cjcombs/"><img align="center" src="https://publichtmlimg.blob.core.windows.net/$web/MicrosoftWindows.png" alt="Microsoft Windows" height="55" width="55" /></a>
 
 
 <h2>🏆 Awards :</h2>
