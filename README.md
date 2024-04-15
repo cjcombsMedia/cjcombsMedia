@@ -44,7 +44,7 @@
 -   <img width="15px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="Linkedin Icon" /> Join Me On Linkedin <a href="https://www.linkedin.com/in/suhail-khan-645998127/">**christopher combs**</a>
 -   <img width="13px" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="Gmail Icon" /> How to reach me **cjcombs.noc@gmail.com**
 
-## Connect with me:
+<h2>Connect with me:</h2>
 
 <p align="left">
 <a href="https://www.linkedin.com/in/cjcombs/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/suhail-khan-645998127/" height="30" width="40" /></a>
@@ -52,7 +52,7 @@
 
 </p>
 
-## 🏆 Awards :
+<h2>🏆 Awards :</h2>
  
  <p align="center">
 <div align=center><img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=cjcombsMedia&theme=darkhub&column=8&margin-h=12&margin-w=5&no-bg=true" alt="Award" />
@@ -61,7 +61,7 @@
 </p>
  
  
-## Microsoft Stack Expertise:
+<h2>Microsoft Stack Expertise:</h2>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/cjcombs/" target="_blank"><img align="left" alt="Microsoft SharePoint" width="55px" src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_SharePointLOGO.png" style="padding-right:10px;" /></a>
@@ -78,7 +78,7 @@
 
 
 
-## 🔥 Streak stats :
+<h2>🔥 Streak stats :</h2>
 <p>
 <div align="center">
   <a href="https://github.com/cjcombsMedia/github-readme-streak-stats">
@@ -92,7 +92,7 @@
 </p>
   
 
-## 📈 GitHub Stats :
+<h2>📈 GitHub Stats :</h2>
 
 <p>
 
