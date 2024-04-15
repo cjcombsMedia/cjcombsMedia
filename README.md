@@ -84,6 +84,9 @@ variable "award_name" {
     <a href="https://www.linkedin.com/in/cjcombs/"><img align="center" src="https://publichtmlimg.blob.core.windows.net/$web/Windows_Light.png" alt="Microsoft Windows" height="55" width="55" /></a>
     <a href="https://www.linkedin.com/in/cjcombs/"><img align="center" src="https://publichtmlimg.blob.core.windows.net/$web/Apple_Light.png" alt="Apple macOS" height="55" width="55" /></a>
     <a href="https://www.linkedin.com/in/cjcombs/"><img align="center" src="https://publichtmlimg.blob.core.windows.net/$web/Linux_Light.png" alt="Linux" height="55" width="55" /></a>
+    <a href="https://www.linkedin.com/in/cjcombs/"><img align="center" src="https://publichtmlimg.blob.core.windows.net/$web/BrightGauge_Light.png" alt="Python" height="55" width="55" /></a>
+    <a href="https://www.linkedin.com/in/cjcombs/"><img align="center" src="https://publichtmlimg.blob.core.windows.net/$web/MAKE-com_Light.png" alt="Make.com" height="55" width="55" /></a>
+    <a href="https://www.linkedin.com/in/cjcombs/"><img align="center" src="https://publichtmlimg.blob.core.windows.net/$web/Python_Light.png" alt="BrightGauge" height="55" width="55" /></a>
 
 
 <h2>🏆 Awards :</h2>
