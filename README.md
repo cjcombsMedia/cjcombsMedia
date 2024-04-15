@@ -9,7 +9,7 @@
   <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">,CJ Combs Award Winning & Certified Problem Solver! </h1>
 <h3 align="center">PRINCIPAL IT ENGINEER | INFORMATION TECHNOLOGY | PASSIONATE PROBLEM SOLVER</h3>
 
-<h4 align="center">I have 🎯 30+ years of experience in in designing, building and supporting enterprise systems in the cloud and on-premise for Fortune 100/500 companies and small start-up businesses. I also specialize in SharePoint Management, Development, Design and Automation. I also have extensive experience in Scripting, Automation and User Experience App development for organizations (Business Line Apps) for efficiency and effectiveness.</h4>
+<h4 align="center">>_ I have 🎯 30+ years of experience in in designing, building and supporting enterprise systems in the cloud and on-premise for Fortune 100/500 companies and small start-up businesses. I also specialize in SharePoint Management, Development, Design and Automation. I also have extensive experience in Scripting, Automation and User Experience App development for organizations (Business Line Apps) for efficiency and effectiveness.</h4>
 <br>
 
 <p align="center">
@@ -59,9 +59,9 @@ variable "award_name" {
 </div>
 
 
--   <img width="15px" src="https://cdn-icons-png.flaticon.com/512/534/534621.png" alt="Terminal Icon" /> I’m currently Working as a **>_ Senior NOC/SOC Engineer for an MSP**
--   <img width="15px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="Linkedin Icon" /> Join Me On Linkedin <a href="https://www.linkedin.com/in/cjcombs/">**>_ Christopher Combs**</a>
--   <img width="13px" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="Gmail Icon" /> How to reach me **>_ cjcombs.noc@gmail.com**
+-   <img width="15px" src="https://cdn-icons-png.flaticon.com/512/534/534621.png" alt="Terminal Icon" /> I’m currently Working as a **Senior NOC/SOC Engineer for an MSP**
+-   <img width="15px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="Linkedin Icon" /> Join Me On Linkedin <a href="https://www.linkedin.com/in/cjcombs/">**Christopher Combs**</a>
+-   <img width="13px" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="Gmail Icon" /> How to reach me **cjcombs.noc@gmail.com**
 
 <h2>Connect with me:</h2>
 
