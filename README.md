@@ -63,7 +63,7 @@
  
 ## Microsoft Stack Expertise:
 
-<p align="left">
+<p align="center">
 <a href="https://www.linkedin.com/in/cjcombs/" target="_blank"><img align="left" alt="Microsoft SharePoint" width="55px" src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_SharePointLOGO.png" style="padding-right:10px;" /></a>
 <a href="https://www.linkedin.com/in/cjcombs/" target="_blank"><img align="left" alt="Microsoft PowerAutomate" width="55px" src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_PowerAutomate.png" style="padding-right:10px;" /></a>
 <a href="https://www.linkedin.com/in/cjcombs/" target="_blank"><img align="left" alt="Microsoft PowerApps" width="55px" src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_PowerApps.png" style="padding-right:10px;" /></a>
@@ -72,7 +72,7 @@
 <a href="https://www.linkedin.com/in/cjcombs/" target="_blank"><img align="left" alt="Microsoft Forms" width="55px" src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_Forms.png" style="padding-right:10px;" /></a>
 <a href="https://www.linkedin.com/in/cjcombs/" target="_blank"><img align="left" alt="Microsoft Teams" width="55px" src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_Teams.png" style="padding-right:10px;" /></a>
 <a href="https://www.linkedin.com/in/cjcombs/" target="_blank"><img align="left" alt="Microsoft Exchange" width="55px" src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_Exchange.png" style="padding-right:10px;" /></a>
-<a href="https://www.linkedin.com/in/cjcombs/" target="_blank"><img align="left" alt="Microsoft Office 365" width="55px" style="padding-right:10px;" src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_Office365.png" /></a>
+<a href="https://www.linkedin.com/in/cjcombs/" target="_blank"><img align="left" alt="Microsoft Office 365" width="55px" src="https://publichtmlimg.blob.core.windows.net/$web/MS_DARK_Office365.png" style="padding-right:10px;" /></a>
 
 </p>
 
