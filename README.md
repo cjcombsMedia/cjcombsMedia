@@ -13,7 +13,7 @@
 <br>
 
 <p align="center">
-  <img src="https://publichtmlimg.blob.core.windows.net/$web/CJCombs_GitHub_Header_v3.gif" alt="" width="100%" height="90%">
+  <img src="https://publichtmlimg.blob.core.windows.net/$web/CJCombs_GitHub_Header_v5.gif" alt="" width="100%" height="90%">
 </p>
  
 ```powershell
