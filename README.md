@@ -8,7 +8,7 @@
 
 30+ years designing, building, and supporting enterprise systems — cloud and on‑prem — for Fortune 100/500 companies and small startups. Senior **AI Strategy Director** showing the "Art of the Possible" with AI, ethically. Microsoft Copilot Studio dev · SharePoint expert · open‑source contributor.
 
-<a href="https://cjcombs.com"><code>cjcombs.com</code></a>&nbsp;·&nbsp;<a href="https://www.linkedin.com/in/cjcombs/"><code>/linkedin</code></a>&nbsp;·&nbsp;<a href="https://www.youtube.com/@ElevateYourSkills"><code>/youtube</code></a>&nbsp;·&nbsp;<a href="https://x.com/CJTheAIGuy"><code>/x</code></a>&nbsp;·&nbsp;<a href="mailto:cjcombs.noc@cjcombs.com"><code>/email</code></a>
+<a href="https://cjcombs.com"><code>cjcombs.com</code></a>&nbsp;·&nbsp;<a href="https://www.linkedin.com/in/cjcombs/"><code>/linkedin</code></a>&nbsp;·&nbsp;<a href="https://www.youtube.com/@ElevateYourSkills"><code>/youtube</code></a>&nbsp;·&nbsp;<a href="https://x.com/CJTheAIGuy"><code>/x</code></a>
 
 </div>
 
