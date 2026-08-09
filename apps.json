@@ -1,0 +1,99 @@
+[
+  {
+    "name": "RRCC",
+    "platform": "Mac + iPhone",
+    "status": "Live — case study",
+    "url": "https://cjcombs.com/apps/rrcc/",
+    "image": "https://cjcombs.com/assets/decks/rrcc-1.webp",
+    "tags": ["SwiftUI", "HealthKit", "AI coaching"],
+    "description": "Training command center — readiness scoring, sleep and heart-rate signals, weekly load, and an AI coach plan in plain English."
+  },
+  {
+    "name": "FULLGAS",
+    "platform": "iOS",
+    "status": "TestFlight beta",
+    "image": "https://cjcombs.com/assets/decks/fullgas-1.webp",
+    "tags": ["MapKit", "GPS", "Leaderboards"],
+    "description": "Competitive cycling with GPS hotspots, a garage, and leaderboards. The apex won't wait."
+  },
+  {
+    "name": "DashCam",
+    "platform": "iOS",
+    "status": "Built",
+    "image": "https://cjcombs.com/assets/decks/dashcam-1.webp",
+    "tags": ["Vision", "CoreMotion", "4K capture"],
+    "description": "An AI dashcam — live road-sign and signal detection, speed, g-force, GPS lock, and one-tap clip tagging while you drive."
+  },
+  {
+    "name": "Flight Facts",
+    "platform": "iOS",
+    "status": "Built",
+    "image": "https://cjcombs.com/assets/decks/flight-facts-1.webp",
+    "tags": ["Barometer", "Offline corpus", "CoreLocation"],
+    "description": "Window-seat companion. Detects your flight mid-air and narrates what you're flying over — landmarks, geology, oddities. Works in airplane mode."
+  },
+  {
+    "name": "Conference Assist",
+    "platform": "iOS",
+    "status": "Built",
+    "image": "https://cjcombs.com/assets/decks/conference-assist-1.webp",
+    "tags": ["Card scanning", "AI enrichment", "Field sales"],
+    "description": "A command center for working a conference — playbook, badge-scan contacts, AI enrichment, and readiness tracking from gate to gate."
+  },
+  {
+    "name": "AI Assessment Scorecard",
+    "platform": "iOS",
+    "status": "Built",
+    "image": "https://cjcombs.com/assets/decks/ai-scorecard-1.webp",
+    "tags": ["Discovery tool", "Scoring engine"],
+    "description": "Eight dimensions, five taps each — turns an AI-readiness conversation into a score out of 100 and a verdict on the spot."
+  },
+  {
+    "name": "MCP Qualifier",
+    "platform": "iOS",
+    "status": "Built",
+    "image": "https://cjcombs.com/assets/decks/mcp-qualifier-1.webp",
+    "tags": ["MCP", "Voice input", "FLASHBANG built in"],
+    "description": "\"Should this be an MCP?\" Type or speak the use case, get a scored verdict: skip it, use a workflow tool, build one MCP — or several."
+  },
+  {
+    "name": "Manufacturing Assist",
+    "platform": "iOS",
+    "status": "Demo build",
+    "image": "https://cjcombs.com/assets/decks/manufacturing-assist-1.webp",
+    "tags": ["AI chat", "Plant ops"],
+    "description": "Plant-ops AI assistant — equipment troubleshooting, OEE reports, safety incidents, inventory, quality, and shift handoffs in one thread list."
+  },
+  {
+    "name": "Apple Health Exporter",
+    "platform": "iOS",
+    "status": "Built",
+    "image": "https://cjcombs.com/assets/decks/health-exporter-1.webp",
+    "tags": ["HealthKit", "JSON export"],
+    "description": "One tap pulls the day's Apple Health and motion data into clean JSON — with a daily reminder so the streak never breaks."
+  },
+  {
+    "name": "Outdoor Tracker",
+    "platform": "iOS",
+    "status": "Built",
+    "image": "https://cjcombs.com/assets/decks/outdoor-tracker-1.webp",
+    "tags": ["GPS", "Live tracking", "ECG spot reads"],
+    "description": "Hike, walk, run, ride — live activity tracking with spot heart-rate readings, replay, and a watch-live map for people back home."
+  },
+  {
+    "name": "Altitude & G-Force Checker",
+    "platform": "iOS",
+    "status": "Built",
+    "image": "https://cjcombs.com/assets/decks/altitude-gforce-1.webp",
+    "tags": ["CoreMotion", "Barometer", "Replay"],
+    "description": "Ride replay from every sensor on the phone — altitude, g-force, vibration, smoothness scoring, and the weather while it happened."
+  },
+  {
+    "name": "Keylight",
+    "platform": "Apple TV",
+    "status": "Built",
+    "image": "https://cjcombs.com/assets/decks/keylight-1.webp",
+    "tags": ["tvOS", "Video calls"],
+    "description": "Turns the biggest screen in the room into a key light — presets, light shapes, color temperature, and brightness, tuned from the couch."
+  }
+]

@@ -1,0 +1,38 @@
+name: Sync apps from cjcombs.com
+
+on:
+  schedule:
+    - cron: "23 11 * * *" # daily, ~6:23am US Central
+  workflow_dispatch: {}
+  push:
+    paths:
+      - apps.json
+      - scripts/update_apps.py
+      - .github/workflows/update-apps.yml
+
+permissions:
+  contents: write
+
+env:
+  APPS_JSON_URL: https://cjcombs.com/apps.json
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Rebuild the apps table
+        run: python3 scripts/update_apps.py
+
+      - name: Commit if changed
+        run: |
+          if ! git diff --quiet README.md; then
+            git config user.name  "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add README.md
+            git commit -m "chore: sync apps section"
+            git push
+          else
+            echo "README already up to date"
+          fi
